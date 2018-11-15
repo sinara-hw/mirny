@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JIPAYJVN
+DocumentUniqueId=KMTUJVYP
 
 [Document9]
 DocumentPath=B2B_connectors.SchDoc
@@ -188,7 +188,28 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SYUCBPCN
+DocumentUniqueId=JIPAYJVN
+
+[Document10]
+DocumentPath=Mirny.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=URAELBSR
+
+[SearchPath1]
+Path=H:\Team Drives\Altium\AltiumLib\*.IntLib
+IncludeSubFolders=1
 
 [Configuration1]
 Name=Default Configuration
