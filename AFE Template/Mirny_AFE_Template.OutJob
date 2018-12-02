@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Mirny.OutJob
+Name=Mirny_AFE_Template.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -36,7 +36,7 @@ OutputMedium4_Type=Multimedia
 OutputType1=Schematic Print
 OutputName1=Schematic Prints
 OutputCategory1=Documentation
-OutputDocumentPath1=
+OutputDocumentPath1=[Project Physical Documents]
 OutputVariantName1=
 OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
@@ -89,7 +89,7 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=F:\GitHub\mirny\PCB\Project Outputs for Mirny\
+OutputFilePath3=F:\GitHub\mirny\AFE Template\Project Outputs for Mirny_AFE_Template\
 ReleaseManaged3=1
 OutputBasePath3=Project Outputs for Mirny_AFE_Template
 OutputPathMedia3=
@@ -143,7 +143,7 @@ WmvQuality4=80
 [GeneratedFilesSettings]
 RelativeOutputPath2=F:\GitHub\mirny\PCB\Project Outputs for Mirny\Mirny.PDF
 OpenOutputs2=1
-RelativeOutputPath3=F:\GitHub\mirny\PCB\Project Outputs for Mirny\
+RelativeOutputPath3=F:\GitHub\mirny\AFE Template\Project Outputs for Mirny_AFE_Template\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0

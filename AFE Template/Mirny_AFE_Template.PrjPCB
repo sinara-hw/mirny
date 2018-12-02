@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Mirny_AFE_Template
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -52,7 +52,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TMMEUSNY
 
 [Document2]
 DocumentPath=Mirny_AFE_Template.OutJob
@@ -86,7 +86,11 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=JIPAYJVN
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Mirny_AFE_Template\ExportSTEP\Mirny_AFE_Template.step
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=H:\Team Drives\Altium\AltiumLib\*.IntLib
@@ -145,7 +149,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Mirny_AFE_Template
 
 [OutputGroup1]
 Name=Netlist Outputs

@@ -171,7 +171,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=KMTUJVYP
+DocumentUniqueId=BCHVCDTR
 
 [Document9]
 DocumentPath=B2B_connectors.SchDoc
@@ -206,6 +206,46 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=URAELBSR
+
+[ProjectVariant1]
+UniqueID=8A281219-7357-4AF0-900E-E72895C9A7C2
+Description=Base
+AllowFabrication=0
+ParameterCount=0
+VariationCount=28
+Variation1=Designator=R73|UniqueId=\LQCHRPAD\SPHXBQTR|Kind=1|AlternatePart= 
+Variation2=Designator=R81|UniqueId=\LQCHRPAD\HARVSHPE|Kind=1|AlternatePart= 
+Variation3=Designator=R112|UniqueId=\LQCHRPAD\DCWDXPGU|Kind=1|AlternatePart= 
+Variation4=Designator=R113|UniqueId=\LQCHRPAD\PTQNGEXB|Kind=1|AlternatePart= 
+Variation5=Designator=C85A|UniqueId=\QOVYTBEE\OFOGSICH|Kind=1|AlternatePart= 
+Variation6=Designator=C86B|UniqueId=\CNMIDPSV\HAIABIYU|Kind=1|AlternatePart= 
+Variation7=Designator=C86D|UniqueId=\YKEHEFNG\HAIABIYU|Kind=1|AlternatePart= 
+Variation8=Designator=C85C|UniqueId=\KNNCFVXD\OFOGSICH|Kind=1|AlternatePart= 
+Variation9=Designator=C85B|UniqueId=\CNMIDPSV\OFOGSICH|Kind=1|AlternatePart= 
+Variation10=Designator=C86A|UniqueId=\QOVYTBEE\HAIABIYU|Kind=1|AlternatePart= 
+Variation11=Designator=C85D|UniqueId=\YKEHEFNG\OFOGSICH|Kind=1|AlternatePart= 
+Variation12=Designator=C86C|UniqueId=\KNNCFVXD\HAIABIYU|Kind=1|AlternatePart= 
+Variation13=Designator=C44A|UniqueId=\VODDCDDU\XSKDBUGN|Kind=1|AlternatePart= 
+Variation14=Designator=C44C|UniqueId=\NALMNRFY\XSKDBUGN|Kind=1|AlternatePart= 
+Variation15=Designator=C44B|UniqueId=\QOPKUKAX\XSKDBUGN|Kind=1|AlternatePart= 
+Variation16=Designator=C44D|UniqueId=\SGFUOEWE\XSKDBUGN|Kind=1|AlternatePart= 
+Variation17=Designator=C46A|UniqueId=\VODDCDDU\IOQTTHVT|Kind=1|AlternatePart= 
+Variation18=Designator=C46B|UniqueId=\QOPKUKAX\IOQTTHVT|Kind=1|AlternatePart= 
+Variation19=Designator=C46C|UniqueId=\NALMNRFY\IOQTTHVT|Kind=1|AlternatePart= 
+Variation20=Designator=C46D|UniqueId=\SGFUOEWE\IOQTTHVT|Kind=1|AlternatePart= 
+Variation21=Designator=TR4A|UniqueId=\VODDCDDU\UEXQVCTL|Kind=1|AlternatePart= 
+Variation22=Designator=TR4D|UniqueId=\SGFUOEWE\UEXQVCTL|Kind=1|AlternatePart= 
+Variation23=Designator=TR4C|UniqueId=\NALMNRFY\UEXQVCTL|Kind=1|AlternatePart= 
+Variation24=Designator=TR4B|UniqueId=\QOPKUKAX\UEXQVCTL|Kind=1|AlternatePart= 
+Variation25=Designator=J9A|UniqueId=\VODDCDDU\NKVYDSLL|Kind=1|AlternatePart= 
+Variation26=Designator=J9C|UniqueId=\NALMNRFY\NKVYDSLL|Kind=1|AlternatePart= 
+Variation27=Designator=J9D|UniqueId=\SGFUOEWE\NKVYDSLL|Kind=1|AlternatePart= 
+Variation28=Designator=J9B|UniqueId=\QOPKUKAX\NKVYDSLL|Kind=1|AlternatePart= 
+ParamVariationCount=0
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Mirny\Design Rule Check - Mirny.html
+DItemRevisionGUID=
 
 [SearchPath1]
 Path=H:\Team Drives\Altium\AltiumLib\*.IntLib
