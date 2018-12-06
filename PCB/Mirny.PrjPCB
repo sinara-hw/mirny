@@ -205,14 +205,14 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=URAELBSR
+DocumentUniqueId=FVPGMBBD
 
 [ProjectVariant1]
 UniqueID=8A281219-7357-4AF0-900E-E72895C9A7C2
 Description=Base
 AllowFabrication=0
 ParameterCount=0
-VariationCount=28
+VariationCount=67
 Variation1=Designator=R73|UniqueId=\LQCHRPAD\SPHXBQTR|Kind=1|AlternatePart= 
 Variation2=Designator=R81|UniqueId=\LQCHRPAD\HARVSHPE|Kind=1|AlternatePart= 
 Variation3=Designator=R112|UniqueId=\LQCHRPAD\DCWDXPGU|Kind=1|AlternatePart= 
@@ -241,6 +241,45 @@ Variation25=Designator=J9A|UniqueId=\VODDCDDU\NKVYDSLL|Kind=1|AlternatePart=
 Variation26=Designator=J9C|UniqueId=\NALMNRFY\NKVYDSLL|Kind=1|AlternatePart= 
 Variation27=Designator=J9D|UniqueId=\SGFUOEWE\NKVYDSLL|Kind=1|AlternatePart= 
 Variation28=Designator=J9B|UniqueId=\QOPKUKAX\NKVYDSLL|Kind=1|AlternatePart= 
+Variation29=Designator=CLIP35|UniqueId=\UDGKGFUX|Kind=1|AlternatePart= 
+Variation30=Designator=CLIP34|UniqueId=\KMRXHRXG|Kind=1|AlternatePart= 
+Variation31=Designator=CLIP33|UniqueId=\SGTNFDAL|Kind=1|AlternatePart= 
+Variation32=Designator=CLIP32|UniqueId=\MIPKBGEX|Kind=1|AlternatePart= 
+Variation33=Designator=CLIP31|UniqueId=\KXLPMGGB|Kind=1|AlternatePart= 
+Variation34=Designator=CLIP30|UniqueId=\QDSWPAVV|Kind=1|AlternatePart= 
+Variation35=Designator=CLIP29|UniqueId=\FJCQRXUB|Kind=1|AlternatePart= 
+Variation36=Designator=CLIP28|UniqueId=\XLFANNKP|Kind=1|AlternatePart= 
+Variation37=Designator=CLIP27|UniqueId=\CVPWHKKL|Kind=1|AlternatePart= 
+Variation38=Designator=CLIP26|UniqueId=\VBJFDIKN|Kind=1|AlternatePart= 
+Variation39=Designator=CLIP25|UniqueId=\HSFJLMAK|Kind=1|AlternatePart= 
+Variation40=Designator=CLIP24|UniqueId=\QLHXMOUG|Kind=1|AlternatePart= 
+Variation41=Designator=CLIP23|UniqueId=\MFTUBJTJ|Kind=1|AlternatePart= 
+Variation42=Designator=CLIP22|UniqueId=\ISKDHWNA|Kind=1|AlternatePart= 
+Variation43=Designator=CLIP21|UniqueId=\YDPKEUID|Kind=1|AlternatePart= 
+Variation44=Designator=CLIP20|UniqueId=\SMTDHPVE|Kind=1|AlternatePart= 
+Variation45=Designator=CLIP19|UniqueId=\ODBUXNGG|Kind=1|AlternatePart= 
+Variation46=Designator=CLIP18|UniqueId=\BAWHSBSJ|Kind=1|AlternatePart= 
+Variation47=Designator=CLIP17|UniqueId=\ADDSYWPY|Kind=1|AlternatePart= 
+Variation48=Designator=CLIP16|UniqueId=\HBYARUSV|Kind=1|AlternatePart= 
+Variation49=Designator=CLIP15|UniqueId=\FSRWTIBC|Kind=1|AlternatePart= 
+Variation50=Designator=CLIP14|UniqueId=\WSQVHDTE|Kind=1|AlternatePart= 
+Variation51=Designator=CLIP13|UniqueId=\MDVKBPWB|Kind=1|AlternatePart= 
+Variation52=Designator=CLIP12|UniqueId=\NVAYOOED|Kind=1|AlternatePart= 
+Variation53=Designator=CLIP11|UniqueId=\GHEAORTN|Kind=1|AlternatePart= 
+Variation54=Designator=CLIP10|UniqueId=\XWQDIFJW|Kind=1|AlternatePart= 
+Variation55=Designator=CLIP9|UniqueId=\ESUAXGPQ|Kind=1|AlternatePart= 
+Variation56=Designator=CLIP8|UniqueId=\RGVPSDUV|Kind=1|AlternatePart= 
+Variation57=Designator=CLIP7|UniqueId=\CBUQLPEY|Kind=1|AlternatePart= 
+Variation58=Designator=CLIP6|UniqueId=\WTLHNFMU|Kind=1|AlternatePart= 
+Variation59=Designator=CLIP5|UniqueId=\AGBMNSOC|Kind=1|AlternatePart= 
+Variation60=Designator=CLIP4|UniqueId=\JMFHVCVS|Kind=1|AlternatePart= 
+Variation61=Designator=CLIP3|UniqueId=\WBOCEAXM|Kind=1|AlternatePart= 
+Variation62=Designator=CLIP2|UniqueId=\OMTYBSKL|Kind=1|AlternatePart= 
+Variation63=Designator=CLIP1|UniqueId=\BVCNUJUP|Kind=1|AlternatePart= 
+Variation64=Designator=FL1A|UniqueId=\OPJHIFQV\XLVARBNJ|Kind=1|AlternatePart= 
+Variation65=Designator=FL1D|UniqueId=\JEEFDPHY\XLVARBNJ|Kind=1|AlternatePart= 
+Variation66=Designator=FL1C|UniqueId=\KIJYIULM\XLVARBNJ|Kind=1|AlternatePart= 
+Variation67=Designator=FL1B|UniqueId=\ALIFILGY\XLVARBNJ|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -309,7 +348,7 @@ OutputDir=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=EDIF
 OutputName1=EDIF for PCB
@@ -430,7 +469,7 @@ OutputDefault23=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AdvSimNetlist
 OutputName1=Mixed Sim
@@ -517,7 +556,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -539,7 +578,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=CompositeDrill
 OutputName1=Composite Drill Drawing
@@ -611,7 +650,7 @@ OutputDefault12=0
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -648,7 +687,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -828,7 +867,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Design Rules Check
 OutputName1=Design Rules Check
@@ -867,7 +906,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -918,7 +957,7 @@ OutputDefault9=0
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=HP LaserJet Professional P1102
+TargetPrinter=Send To OneNote 2016
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
