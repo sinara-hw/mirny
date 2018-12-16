@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Mirny
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -212,7 +212,7 @@ UniqueID=8A281219-7357-4AF0-900E-E72895C9A7C2
 Description=Base
 AllowFabrication=0
 ParameterCount=0
-VariationCount=67
+VariationCount=77
 Variation1=Designator=R73|UniqueId=\LQCHRPAD\SPHXBQTR|Kind=1|AlternatePart= 
 Variation2=Designator=R81|UniqueId=\LQCHRPAD\HARVSHPE|Kind=1|AlternatePart= 
 Variation3=Designator=R112|UniqueId=\LQCHRPAD\DCWDXPGU|Kind=1|AlternatePart= 
@@ -280,6 +280,16 @@ Variation64=Designator=FL1A|UniqueId=\OPJHIFQV\XLVARBNJ|Kind=1|AlternatePart=
 Variation65=Designator=FL1D|UniqueId=\JEEFDPHY\XLVARBNJ|Kind=1|AlternatePart= 
 Variation66=Designator=FL1C|UniqueId=\KIJYIULM\XLVARBNJ|Kind=1|AlternatePart= 
 Variation67=Designator=FL1B|UniqueId=\ALIFILGY\XLVARBNJ|Kind=1|AlternatePart= 
+Variation68=Designator=R61|UniqueId=\LQCHRPAD\SXPIKXPV|Kind=1|AlternatePart= 
+Variation69=Designator=R70|UniqueId=\LQCHRPAD\YRVWSVTY|Kind=1|AlternatePart= 
+Variation70=Designator=R76|UniqueId=\LQCHRPAD\XHOJDFRC|Kind=1|AlternatePart= 
+Variation71=Designator=R72|UniqueId=\LQCHRPAD\EJQGYMNO|Kind=1|AlternatePart= 
+Variation72=Designator=R77|UniqueId=\LQCHRPAD\YJSGHINH|Kind=1|AlternatePart= 
+Variation73=Designator=R78|UniqueId=\LQCHRPAD\PTCQUEPM|Kind=1|AlternatePart= 
+Variation74=Designator=R79|UniqueId=\LQCHRPAD\SBPVNKFG|Kind=1|AlternatePart= 
+Variation75=Designator=R84|UniqueId=\LQCHRPAD\VHWFVOHT|Kind=1|AlternatePart= 
+Variation76=Designator=R87|UniqueId=\LQCHRPAD\GYHAKQKS|Kind=1|AlternatePart= 
+Variation77=Designator=R110|UniqueId=\LQCHRPAD\IIOPCRJW|Kind=1|AlternatePart= 
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -343,7 +353,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Mirny
 
 [OutputGroup1]
 Name=Netlist Outputs
