@@ -88,10 +88,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIPAYJVN
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Mirny_AFE_Template\ExportSTEP\Mirny_AFE_Template.step
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=H:\Team Drives\Altium\AltiumLib\*.IntLib
 IncludeSubFolders=1

@@ -389,6 +389,10 @@ ParamVariationCount=0
 DocumentPath=Project Outputs for Mirny\Design Rule Check - Mirny.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Mirny\ExportSTEP\Mirny(Base).step
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=H:\Team Drives\Altium\AltiumLib\*.IntLib
 IncludeSubFolders=1
