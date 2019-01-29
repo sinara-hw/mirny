@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=
+OutputPath=Project Outputs for Mirny
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -1183,10 +1183,6 @@ ParamVariationCount=96
 DocumentPath=Project Outputs for Mirny\Design Rule Check - Mirny.html
 DItemRevisionGUID=
 
-[GeneratedDocument2]
-DocumentPath=Project Outputs for Mirny\ExportSTEP\Mirny(Base).step
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=H:\Team Drives\Altium\AltiumLib\*.IntLib
 IncludeSubFolders=1
@@ -1244,7 +1240,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=-1
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for Mirny
 
 [OutputGroup1]
 Name=Netlist Outputs
