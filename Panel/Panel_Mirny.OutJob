@@ -15,13 +15,13 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=
+Name=Panel_Mirny.OutJob
 Description=
 TargetOutputMedium=DWG
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Brother DCP-J315W Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -73,14 +73,14 @@ OutputName3=VCO
 OutputCategory3=Export
 OutputDocumentPath3=Panel_Mirny.PcbDoc
 OutputVariantName3=
-OutputEnabled3=0
+OutputEnabled3=1
 OutputEnabled3_OutputMedium1=0
 OutputEnabled3_OutputMedium2=0
 OutputEnabled3_OutputMedium3=0
-OutputEnabled3_OutputMedium4=0
+OutputEnabled3_OutputMedium4=3
 OutputDefault3=0
 Configuration3_Name1=OutputConfigurationParameter1
-Configuration3_Item1=Record=ExportDXFView|ACadVersion=61|UseRoundedTracks=True|Components=0|HoleMode=1|Units=1|OutputFormat=1|OnlyVisibleLayers=True|ZeroWidthLines=0
+Configuration3_Item1=Record=ExportDXFView|ACadVersion=61|UseRoundedTracks=True|Components=0|HoleMode=1|Units=1|OutputFormat=1|ZeroWidthLines=1|LayersHash=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16908289~1,16908301~1,16973839~1|OnlyVisibleLayers=False
 OutputType4=ExportSTEP
 OutputName4=Export STEP
 OutputCategory4=Export
