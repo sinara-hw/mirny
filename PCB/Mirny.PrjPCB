@@ -220,6 +220,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=Mirny.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PLSGPBGB
+
 [ProjectVariant1]
 UniqueID=8A281219-7357-4AF0-900E-E72895C9A7C2
 Description=ADF4355
@@ -1341,7 +1358,7 @@ IncludeSubFolders=1
 
 [Parameter1]
 Name=P_version
-Value=1.1.3
+Value=1.1.4
 
 [Configuration1]
 Name=Default Configuration
@@ -2153,6 +2170,8 @@ Type133=1
 Type134=1
 Type135=1
 Type136=1
+Type137=1
+Type138=1
 
 [Difference Levels]
 Type1=1
@@ -2382,6 +2401,8 @@ Type148=2
 Type149=2
 Type150=2
 Type151=2
+Type152=1
+Type153=1
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
