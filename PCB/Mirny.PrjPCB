@@ -50,23 +50,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=CTRL_LOGIC.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=6
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=KFNSTWVB
-
-[Document2]
 DocumentPath=Mirny.schdoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -83,7 +66,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EXWNFARM
 
-[Document3]
+[Document2]
 DocumentPath=VCO_channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -100,7 +83,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RIDKCXJR
 
-[Document4]
+[Document3]
 DocumentPath=VCO_OUT_channel.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -117,24 +100,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VVJTMOKW
 
-[Document5]
-DocumentPath=LVDS_IFC_VCO.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=12
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=MJNKMGWL
-
-[Document6]
+[Document4]
 DocumentPath=CLK_INPUT.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -151,7 +117,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BCHVCDTR
 
-[Document7]
+[Document5]
 DocumentPath=B2B_connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -168,7 +134,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JIPAYJVN
 
-[Document8]
+[Document6]
 DocumentPath=Mirny.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -185,7 +151,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LSLTAKES
 
-[Document9]
+[Document7]
 DocumentPath=Mirny.BomDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -202,14 +168,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=CPCIS_Connectors_P1_P6.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=13
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -219,14 +185,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RMUUFYQV
 
-[Document11]
+[Document9]
 DocumentPath=EEM_Connectors.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=14
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -236,14 +202,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VGBTAUBO
 
-[Document12]
+[Document10]
 DocumentPath=Power_Supplies.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=15
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -253,7 +219,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GVTSYOHF
 
-[Document13]
+[Document11]
 DocumentPath=Power_Supplies.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -270,7 +236,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document14]
+[Document12]
 DocumentPath=CPCIS_Connectors_P1_P6.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -287,7 +253,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document13]
 DocumentPath=EEM_Connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -304,7 +270,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document16]
+[Document14]
 DocumentPath=B2B_connectors.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,8 +287,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=FPGA_Supply_Config.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=16
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OVTTSEIZ
+
+[Document16]
+DocumentPath=FPGA_Supply_Config.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document17]
-DocumentPath=LVDS_IFC_VCO.Harness
+DocumentPath=FPGA.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=17
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UERNCYWY
+
+[Document18]
+DocumentPath=FPGA.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -343,7 +360,7 @@ UniqueId=8A281219-7357-4AF0-900E-E72895C9A7C2
 Description=ADF4355
 AllowFabrication=0
 ParameterCount=0
-VariationCount=155
+VariationCount=153
 Variation1=Designator=R73|UniqueId=\LQCHRPAD\SPHXBQTR|Kind=1|AlternatePart=
 Variation2=Designator=R81|UniqueId=\LQCHRPAD\HARVSHPE|Kind=1|AlternatePart=
 Variation3=Designator=R112|UniqueId=\LQCHRPAD\DCWDXPGU|Kind=1|AlternatePart=
@@ -497,8 +514,6 @@ Variation150=Designator=R77|UniqueId=\LQCHRPAD\ZKECVXRR|Kind=1|AlternatePart=
 Variation151=Designator=OSC1|UniqueId=\LQCHRPAD\YQZZZHMR|Kind=1|AlternatePart=
 Variation152=Designator=R91|UniqueId=\LQCHRPAD\XBHKKSBT|Kind=1|AlternatePart=
 Variation153=Designator=R98|UniqueId=\LQCHRPAD\ACQJEPPG|Kind=1|AlternatePart=
-Variation154=Designator=C144|UniqueId=\YXDQGDLO|Kind=1|AlternatePart=
-Variation155=Designator=C145|UniqueId=\PDCMIXIU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -506,7 +521,7 @@ UniqueId=4043E3C7-0808-4F54-89FF-BF5F47BE902B
 Description=ADF4356
 AllowFabrication=0
 ParameterCount=0
-VariationCount=160
+VariationCount=158
 Variation1=Designator=C1D|UniqueId=\YKEHEFNG\BRHVWWDC|Kind=1|AlternatePart=
 Variation2=Designator=C1A|UniqueId=\QOVYTBEE\BRHVWWDC|Kind=1|AlternatePart=
 Variation3=Designator=C1B|UniqueId=\CNMIDPSV\BRHVWWDC|Kind=1|AlternatePart=
@@ -713,8 +728,6 @@ Variation155=Designator=R163|UniqueId=\LQCHRPAD\MOAUDUER|Kind=1|AlternatePart=
 Variation156=Designator=R165|UniqueId=\LQCHRPAD\ACVQFPLF|Kind=1|AlternatePart=
 Variation157=Designator=R167|UniqueId=\LQCHRPAD\NKPRUYTF|Kind=1|AlternatePart=
 Variation158=Designator=R146|UniqueId=\LQCHRPAD\RPZACIPI|Kind=1|AlternatePart=
-Variation159=Designator=C144|UniqueId=\YXDQGDLO|Kind=1|AlternatePart=
-Variation160=Designator=C145|UniqueId=\PDCMIXIU|Kind=1|AlternatePart=
 ParamVariationCount=24
 
 [ProjectVariant3]
@@ -722,7 +735,7 @@ UniqueId=68075FEC-5A63-44EF-945A-6746C211B0C1
 Description=ADF5355
 AllowFabrication=0
 ParameterCount=0
-VariationCount=160
+VariationCount=158
 Variation1=Designator=IC9A|UniqueId=\QOVYTBEE\XYNFTCDG|Kind=0|AlternatePart=ADF5355
 ParamVariation1=ParameterName=Comment|VariantValue=ADF5355
 ParamDesignator1=IC9A
@@ -1073,8 +1086,6 @@ Variation155=Designator=R163|UniqueId=\LQCHRPAD\MOAUDUER|Kind=1|AlternatePart=
 Variation156=Designator=R165|UniqueId=\LQCHRPAD\ACVQFPLF|Kind=1|AlternatePart=
 Variation157=Designator=R167|UniqueId=\LQCHRPAD\NKPRUYTF|Kind=1|AlternatePart=
 Variation158=Designator=R146|UniqueId=\LQCHRPAD\RPZACIPI|Kind=1|AlternatePart=
-Variation159=Designator=C144|UniqueId=\YXDQGDLO|Kind=1|AlternatePart=
-Variation160=Designator=C145|UniqueId=\PDCMIXIU|Kind=1|AlternatePart=
 ParamVariationCount=96
 
 [ProjectVariant4]
@@ -1082,7 +1093,7 @@ UniqueId=2B2187A4-B9D5-4719-9BB4-7638A7809F79
 Description=ADF5356
 AllowFabrication=0
 ParameterCount=0
-VariationCount=160
+VariationCount=158
 Variation1=Designator=IC9A|UniqueId=\QOVYTBEE\XYNFTCDG|Kind=0|AlternatePart=ADF5356
 ParamVariation1=ParameterName=Comment|VariantValue=ADF5356
 ParamDesignator1=IC9A
@@ -1433,8 +1444,6 @@ Variation155=Designator=R163|UniqueId=\LQCHRPAD\MOAUDUER|Kind=1|AlternatePart=
 Variation156=Designator=R165|UniqueId=\LQCHRPAD\ACVQFPLF|Kind=1|AlternatePart=
 Variation157=Designator=R167|UniqueId=\LQCHRPAD\NKPRUYTF|Kind=1|AlternatePart=
 Variation158=Designator=R146|UniqueId=\LQCHRPAD\RPZACIPI|Kind=1|AlternatePart=
-Variation159=Designator=C144|UniqueId=\YXDQGDLO|Kind=1|AlternatePart=
-Variation160=Designator=C145|UniqueId=\PDCMIXIU|Kind=1|AlternatePart=
 ParamVariationCount=96
 
 [SearchPath1]
